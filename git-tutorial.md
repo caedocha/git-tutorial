@@ -1,0 +1,96 @@
+# Git tutorial
+
+## By: Carlos Chacon
+## 03/02/2017
+
+
+## Que es Git?
+
+- Version Control System (VCS) hecho por Linus Torvalds ( Linux )
+- Bajar Git aqui: https://git-scm.com/downloads
+
+
+## Crear Un Repositorio
+
+```ruby
+  git init git-tutorial
+```
+
+
+## Clonar Un Repositorio De Github
+
+```ruby
+  git clone https://github.com/caedocha/git-tutorial.git
+```
+
+
+## Como Compartir Sus Cambios?
+
+- Agregar los archivos modificados del "Working Directory" al "Index"
+- Crear un "commmit" a partir de los cambios en el Index
+- Subir el "commit" a Github
+
+```ruby
+  git add . # Agregar todos los archivos modificados
+  -- o --
+  git add test.rb # Agregar un archivo especifico
+
+  git commit -m "Add test.rb"
+  git push origin master
+```
+
+
+## Descargar Cambios
+
+```ruby
+  git pull origin master
+```
+
+
+## Ver Archivos Modificados
+
+```ruby
+  git status
+```
+
+
+## Ver Cambios En Archivos
+
+```ruby
+  git diff
+```
+
+
+## Branching
+
+- Mecanismo para divergir del branch principal.
+- El branch default es `master`
+- Ideal para desarrollar features nuevos o probar soluciones sin afectar a los demas.
+
+
+## Como Crear Un Branch Nuevo?
+
+```ruby
+  git checkout -b <nombre-de-branch-nuevo>
+  git checkout -b "mi-nuevo-feature"
+```
+
+
+## Como Moverme Entre Branches?
+
+```ruby
+  git checkout <nombre-de-branch>
+  git checkout master
+```
+
+
+## Merge Mis Cambios Al Branch Principal
+
+- Moverme al branch al que le quiere "mergear" mi branch.
+- Mergear mi branch al branch objetivo.
+
+```ruby
+  git checkout master
+  git merge mi-nuevo-feature
+```
+
