@@ -94,3 +94,11 @@
   git merge mi-nuevo-feature
 ```
 
+
+## Recursos
+
+- Git - The Simple Guide: http://rogerdudler.github.io/git-guide/
+- Pro Git: https://git-scm.com/book/en/v2
+
+
+
