@@ -1,7 +1,9 @@
 # Git tutorial
 
 ## By: Carlos Chacon
-## 03/02/2017
+## 27/09/2017
+
+![Git Logo](https://github.com/caedocha/git-tutorial/blob/master/logo.png)
 
 
 ## Que es Git?
