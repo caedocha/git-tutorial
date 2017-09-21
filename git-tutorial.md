@@ -3,7 +3,7 @@
 ## By: Carlos Chacon
 ## 27/09/2017
 
-![Git Logo](https://github.com/caedocha/git-tutorial/blob/master/logo.png)
+![Git Logo](https://github.com/caedocha/git-tutorial/blob/master/images/logo.png)
 
 
 ## Que es Git?
