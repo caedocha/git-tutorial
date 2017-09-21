@@ -12,6 +12,10 @@
 - Bajar Git aqui: https://git-scm.com/downloads
 
 
+
+
+![Workflow](https://github.com/caedocha/git-tutorial/blob/master/images/workflow.png)
+
 ## Crear Un Repositorio
 
 ```ruby
@@ -63,12 +67,18 @@
 ```
 
 
-## Branching
+
+![Stages](https://github.com/caedocha/git-tutorial/blob/master/images/stages.png)
+
+## Branches
 
 - Mecanismo para divergir del branch principal.
 - El branch default es `master`
 - Ideal para desarrollar features nuevos o probar soluciones sin afectar a los demas.
 
+
+
+![Branches](https://github.com/caedocha/git-tutorial/blob/master/images/branches.png)
 
 ## Como Crear Un Branch Nuevo?
 
