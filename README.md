@@ -22,6 +22,13 @@
 
 
 
+## Que es Github?
+
+- Es un servicio que ofrece "hosting" de repositorios remotos.
+- Muchos proyectos Open Source lo usan para "hostear" sus proyectos.
+
+
+
 ![Workflow](https://github.com/caedocha/git-tutorial/blob/master/images/workflow.png)
 
 ## Crear Un Repositorio
