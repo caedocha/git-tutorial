@@ -13,14 +13,6 @@
 
 
 
-## Para que sirve Git?
-
-- Permite a equipos de gente colaborar, compartir y construir un producto, por ejemplo, una aplicacion.
-- Pero no se limita solamente a programacion.
-- Se pueden compartir desde archivos de texto hasta imagenes, binarios, videos, etc.
-- Es un sistema distribuido, es decir no hay un repositorio centaralizado que guarda los archivos.
-- Es muy chiva!
-
 
 ## Que es Github?
 
