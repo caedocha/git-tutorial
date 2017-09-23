@@ -20,7 +20,7 @@
 - Se pueden compartir desde archivos de texto hasta imagenes, binarios, videos, etc.
 - Es un sistema distribuido, es decir no hay un repositorio centaralizado que guarda los archivos.
 - Es muy chiva!
-
+dddd
 
 ## Que es Github?
 
