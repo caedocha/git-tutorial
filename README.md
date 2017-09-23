@@ -130,6 +130,6 @@
 
 ## Agradecimientos
 
-Muchas gracias!
+**Muchas gracias!**
 
 
