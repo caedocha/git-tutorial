@@ -14,6 +14,8 @@
 
 
 
+dddd
+
 ## Que es Github?
 
 - Es un servicio que ofrece "hosting" de repositorios remotos.
@@ -122,6 +124,6 @@
 
 ## Agradecimientos
 
-Muchas gracias!
+**Muchas gracias!**
 
 
